@@ -1,0 +1,14 @@
+INÍCIO
+Acordar e abrir os olhos
+	Se ainda estiver com sono {
+		Colocar despertador mais 10 minutos
+		Dormir mais 10 minutos
+		Levantar
+		Andar até a cozinha
+		Comer
+	} Senão {
+		Levantar
+		Andar até a cozinha
+		Comer	
+	}
+FIM
